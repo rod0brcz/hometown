@@ -41,7 +41,7 @@ body {
 #activities {
     height: 420px;
     width: 850px;
-    margin: auto;
+    margin: auto 0px -10px 0px;
     border: 10px solid #d8e2dc;
     background-color: #d8e2dc;
 }
